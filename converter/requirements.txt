@@ -1,5 +1,5 @@
-torch>=2.2.0
-transformers>=4.38.2
+torch>=2.12.1
+transformers>=5.12.1
 numpy>=1.25.2
 tqdm>=4.66.2
 einops>=0.7.0
